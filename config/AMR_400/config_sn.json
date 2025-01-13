@@ -1,0 +1,9 @@
+{
+    "robot": {
+        "ROBOT_SERIAL_NUMBER": ""
+    },
+    "cam": {
+        "CAM_SERIAL_NUMBER_0": "",
+        "CAM_SERIAL_NUMBER_1": ""
+    }
+}
