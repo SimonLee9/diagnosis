@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=slamnav2
+Exec=gnome-terminal -- /home/rainbow/slamnav2.sh
+Icon=Utilities-terminal
+Terminal=false
+Type=Application
+
