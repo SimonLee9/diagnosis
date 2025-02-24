@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=diasnostic
-Exec=gnome-terminal -- /home/rainbow/diasnostic.sh
+Exec=gnome-terminal -- /home/rainbow/diagnostic.sh
 Icon=Utilities-terminal
 Terminal=false
 Type=Application
